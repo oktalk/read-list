@@ -1,5 +1,6 @@
 # read-list
 
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch1.md)
 * https://gist.github.com/bobbygrace/9e961e8982f42eb91b80?utm_source=html5weekly&utm_medium=email
 * http://codepen.io/ciprianionescu/pen/JYPwwL
 * http://www.html5rocks.com/en/tutorials/es6/promises/
